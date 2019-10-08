@@ -1,0 +1,18 @@
+/* svg:hover {
+    fill: #ffffff!important;
+} */
+div:hover{
+    background: lightblue;
+    width: 512px;
+    height: auto;
+}
+svg path:hover{
+    fill: blueviolet;
+}
+svg polygon:hover{
+    fill: red;
+
+}
+svg polyline{
+    fill: pink;
+}
